@@ -51,7 +51,7 @@ Tokenization -> Sentence and word
 
 Optional Preprocessing -> 
 1) Stop word removal 
-2) Steaming -> Less used
+2) Stemming -> Less used
 3) Lamatization -> More used
 4) Punctuation -> Removal (/,-,$)
 5) Lower case
